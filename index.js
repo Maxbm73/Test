@@ -1,2 +1,2 @@
-const value = 18;
-console.log(value);
+const value2 = 28;
+console.log(value2);
