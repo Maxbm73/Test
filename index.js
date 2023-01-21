@@ -5,3 +5,4 @@ alert(1 + 2);
 const value2 = 28;
 console.log(value2);
 
+const result = value + value2;
